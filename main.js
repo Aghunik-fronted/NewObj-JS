@@ -127,11 +127,6 @@ clock.show();
 
 
 
-// https://www.codewars.com/kata/53dc54212259ed3d4f00071c - сделано
-// https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad - сделано
-// https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
-// https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
-// https://www.codewars.com/kata/57de78848a8b8df8f10005b1
-// https://www.codewars.com/kata/580a4734d6df748060000045
+
 
 
